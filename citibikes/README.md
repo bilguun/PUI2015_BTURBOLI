@@ -40,4 +40,7 @@ citibikes_goodness_of_fit.ipynb
 * 201507-citibike-tripdata.csv
 * 201508-citibike-tripdata.csv
 
-
+### Used test to compare distributions against normal and cauchy dist
+* KS 
+* AD
+* Shapi-Wilk Test
