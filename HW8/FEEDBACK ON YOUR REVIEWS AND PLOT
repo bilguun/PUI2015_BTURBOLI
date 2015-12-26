@@ -1,0 +1,54 @@
+the review were a bit shallow, but were ok. 9.5/10
+
+
+however be careful with your passion for 3D! i think all of the 3d plots you reviewed, and yours, were rendered much more ambiguous (i.e. the values if the variable were hard to tell because of the 3d prospective distortion. conveying the third dimension with, e.g. color, or with a side by side histogram rather than a 3d one would have been much more clear.
+
+NOTES ON YOUR PLOT
+===================
+
+
+is there a point outside of the plot? the point at the top right is very confusing
+
+it is not explained what the point size represents. 
+
+as it often happens 3D is hard to read and confusing and does not add to the visualization, and in fact it makes it harder to understand where in the space each datapoint lives. 
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+vipassana
+============
+
+
+axis labels and especially tick labels are far far faaaaar too small to be readable. same for legend. the title is readable, and all labels should be that size
+
+there is a lot of empty space. remember tufte's rules. a compressed y axis would actually help the intuition allowing to see the entire plot at once instead of bouncing between points with the gaze
+
+the colors are nicely colorblind compliant and the dashed vs solid line also helps separating the data in b&w
+
+
+bhagwat
+============
+
+the plot says color blind compliant, but really the color blind compliance is only important when multiple colors are present. 
+
+spaces are missing between words and parenthesis in both label and title
+
+the 3D is actually justified but the position of the points in the 3d space is hard to read. i think the transparency is attempting to make it more clear but it does not increase readability and the lack of legend makes it confusing to understand its meaning
+
+axis ticks are too small
+
+
+
+priyakhokher
+============
+
+
+3D does not help clarity: the height of the three classes is hard to compare while difference between the years are negligible, effectively undetectable by eye (which is why you needed the number at the top)
+
+nicely color blind compliant
+
+the transparency helps readability avoiding obstruction
